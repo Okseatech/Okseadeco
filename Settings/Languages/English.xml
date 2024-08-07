@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<profileMenu>Profile</profileMenu>
+	<profileEnterMenu>&amp;Enter</profileEnterMenu>
+	<profileStartMenu>&amp;Start</profileStartMenu>
+	<profileModifyMenu>&amp;Modify</profileModifyMenu>
+	<profileCancelMenu>&amp;Cancel</profileCancelMenu>
+	<profileIncreaseGradientMenu>&amp;Increase Gradient</profileIncreaseGradientMenu>
+	<profileDecreaseGradientMenu>&amp;Decrease Gradient</profileDecreaseGradientMenu>
+	<compressionMenu>&amp;Compression</compressionMenu>
+	<compressionEnterMenu>&amp;Enter</compressionEnterMenu>
+	<compressionStartMenu>&amp;Start</compressionStartMenu>
+	<compressionModifyMenu>&amp;Modify</compressionModifyMenu>
+	<compressionCancelMenu>&amp;Cancel</compressionCancelMenu>
+	<compressionIncreaseGradientMenu>&amp;Increase Gradient</compressionIncreaseGradientMenu>
+	<compressionDecreaseGradientMenu>&amp;Decrease Gradient</compressionDecreaseGradientMenu>
+	<decompressionMenu>&amp;Decompression</decompressionMenu>
+	<decompressionEnterMenu>&amp;Enter</decompressionEnterMenu>
+	<decompressionStartMenu>&amp;Start</decompressionStartMenu>
+	<decompressionModifyMenu>&amp;Modify</decompressionModifyMenu>
+	<decompressionCancelMenu>&amp;Cancel</decompressionCancelMenu>
+	<decompressionIncreaseGradientMenu>&amp;Increase Gradient</decompressionIncreaseGradientMenu>
+	<decompressionDecreaseGradientMenu>&amp;Decrease Gradient</decompressionDecreaseGradientMenu>
+	<personsMenu>P&amp;ersons</personsMenu>
+	<personsDatabankMenu>&amp;Databank</personsDatabankMenu>
+	<dataMenu>&amp;Data</dataMenu>
+	<settingsMenu>&amp;Settings</settingsMenu>
+	<settingsSettingsMenu>&amp;Settings...</settingsSettingsMenu>
+	<missiontimeMenu>Mission-Time</missiontimeMenu>
+	<eventMenu>E&amp;vent</eventMenu>
+	<infoMenu>&amp;Info</infoMenu>
+	<infoAboutMenu>&amp;About...</infoAboutMenu>
+	<controls>Controls</controls>
+	<pressure>Pressure</pressure>
+	<pressure_short>Pres</pressure_short>
+	<o2>O2</o2>
+	<temperature>Temperature</temperature>
+	<temperature_short>Temp</temperature_short>
+	<actual>Actual</actual>
+	<oxygen>Oxygen</oxygen>
+	<humidity>Humidity</humidity>
+	<desired_short>Desir</desired_short>
+	<deviation>Deviation</deviation>
+	<start>Start</start>
+	<stop>Stop</stop>
+	<forward>Forward</forward>
+	<backward>Backward</backward>
+	<recent_values>Recent Values</recent_values>
+	<mission_time>Mission time</mission_time>
+	<Remaining_time>Remaining</Remaining_time>
+	<Duration>Duration</Duration>
+	<createMenu1>&amp;Create</createMenu1>
+	<deleteMenu1>&amp;Delete</deleteMenu1>
+	<renameMenu1>&amp;Rename</renameMenu1>
+	<btnOk>&amp;OK</btnOk>
+	<btnCancel>&amp;Cancel</btnCancel>
+	<btnSetProfile>&amp;Set Profile</btnSetProfile>
+	<btnSetPatients>Set &amp;Patients</btnSetPatients>
+	<profile>Profile</profile>
+	<profile_name>Profile Name</profile_name>
+	<record_values>Record Values</record_values>
+	<participants>Participants</participants>
+	<selected_patients>Selected Patients</selected_patients>
+	<btnCreate>C&amp;reate</btnCreate>
+	<btnInsert>&amp;Insert</btnInsert>
+	<btnDelete>&amp;Delete</btnDelete>
+	<add_edit_profile>Add / Edit Profile</add_edit_profile>
+	<hava_giris_basinci>AIR SUPPLY PRESSURE</hava_giris_basinci>
+	<co2_miktari>AMOUNT OF CO2</co2_miktari>
+	<O2_giris_basinci>O2 SUPPLY PRESSURE</O2_giris_basinci>
+	<yangin_tanki_basinci1>FİRE SUPPRESSION</yangin_tanki_basinci1>
+	<yangin_tanki_basinci2>PRESSURE</yangin_tanki_basinci2>
+	<ortam_basinci>CHAMBER PRESSURE</ortam_basinci>
+	<sicaklik>HEAT</sicaklik>
+	<nem>HUMIDITY [%]</nem>
+	<maske_gaz_basinci>MASK GAS PRESSURE</maske_gaz_basinci>
+	<maske>MASKE O2 [%]</maske>
+	<on_bolum>ANTE CHAMBER</on_bolum>
+	<ana_bolum>MAIN CHAMBER</ana_bolum>
+	<giris_oksijen>Ante Chamber Oxygen</giris_oksijen>
+	<giris_sicaklik>Ante Chamber Heat</giris_sicaklik>
+	<giris_basinc>Ante Chamber Pressure</giris_basinc>
+	<ana_bolum_oksijen>Main Chamber Oxygen</ana_bolum_oksijen>
+	<ana_bolum_sicaklik>Main Chamber Heat</ana_bolum_sicaklik>
+	<ana_bolum_basinc>Main Chamber Pressure</ana_bolum_basinc>
+	<durum>STATUS:</durum>
+	<sistem_duruyor>STOP</sistem_duruyor>
+	<sistem_calisiyor>RUNNING</sistem_calisiyor>
+	<alt_limit>Lower Limit</alt_limit>
+	<ust_limit>Upper Limit</ust_limit>
+	<compressionArtirMenu>&amp;RAISE + % 20</compressionArtirMenu>
+	<compressionAzaltMenu>&amp;REDUCE -- % 20</compressionAzaltMenu>
+	<hasta_giris>Patient Entry</hasta_giris>
+	<hasta_silme>Patient Delete</hasta_silme>
+	<kisi_ekle>New Person</kisi_ekle>
+	<yardim>Help</yardim>
+	<lisans>License</lisans>
+	<profil_duzenle>Edit</profil_duzenle>
+	<select_btn>Selecet</select_btn>
+	<please_select>Please Select</please_select>
+	<profile_select>Profile Select</profile_select>
+	<yeni_profil>New Profile</yeni_profil>
+	<profileGraphPrev>Profile Graph Preview</profileGraphPrev>
+	<ttime>Time</ttime>
+	<profileMessageBoxCaption>Treatment Participants</profileMessageBoxCaption>
+	<profileMessageBoxMessage>Are you want to select participants before start the treatment ?</profileMessageBoxMessage>
+	<dalis_amiri>Supervisor</dalis_amiri>
+	<doktor>Doctor</doktor>
+	<operatorr>Operator</operatorr>
+	<tedaviPersonel>Participants</tedaviPersonel>
+	<tedaviPersonel_grup1>Supervisor, Doctor, Operator</tedaviPersonel_grup1>
+	<tedavi>Treatment</tedavi>
+	<kisiler>Persons</kisiler>
+	<seans>Treatment</seans>
+	<kaydet>Save</kaydet>
+	<yanginSondurmeSistemiBasinci>Fire Extinguishing System Air Pressure</yanginSondurmeSistemiBasinci>
+	<lisansFormText>License</lisansFormText>
+	<lisansli>Activated</lisansli>
+	<lisansla>Activate</lisansla>
+	<lisansliDegil>Not Activated</lisansliDegil>
+	<lisansDurumu>License Status</lisansDurumu>
+	<lisansGecerlilik>Lisence Expire Date</lisansGecerlilik>
+	<kimlik_numarasi>Idendity Number</kimlik_numarasi>
+	<kisibilgileri>Information</kisibilgileri>
+	<kisi_ad>Name</kisi_ad>
+	<kisi_soyad>Surname</kisi_soyad>
+	<kisi_adres>Adress</kisi_adres>
+	<kisi_telefon>Phone</kisi_telefon>
+	<kisi_dogumTarihi>Birth Day</kisi_dogumTarihi>
+	<kisi_notlar>Notes</kisi_notlar>
+	<hucresel>Cellular View</hucresel>
+	<detayliGorunum>Detailed View</detayliGorunum>
+	<ileri>Next</ileri>
+	<geri>Back</geri>
+	<kisi_listesi>Persons List</kisi_listesi>
+
+	<guncelle>Update</guncelle>
+	<bar_per_min>bar / min</bar_per_min>
+	<ft_per_min>ft / min</ft_per_min>
+
+	<notification_yeniProfilYuklendi_caption>Profile Loaded</notification_yeniProfilYuklendi_caption>
+	<notification_yeniProfilYuklendi_message>New profile loaded. Treatment can start by pressing Start button.</notification_yeniProfilYuklendi_message>
+
+	<automaticBtn>Automatic</automaticBtn>
+	<waitingMsg>WAITING MODE</waitingMsg>
+
+	<taskManagement>Task Management</taskManagement>
+	<tasks>Tasks</tasks>
+	<deleteSelectedTask>Delete Selected Task</deleteSelectedTask>
+	<newTask>New Task</newTask>
+	<taskName>Task Name : </taskName>
+	<createNewTask>Create New Task</createNewTask>
+
+	<plcConnectionError>PLC Connection Error</plcConnectionError>
+
+	<error>Error</error>
+	<uCantDeleteMessage>This task is forbidden for deleting.</uCantDeleteMessage>
+	<taskDeleting>Deleting</taskDeleting>
+	<daytime>Time : </daytime>
+	<changetooxygen>Switch to Oxygen</changetooxygen>
+	<warning>Warning</warning>
+	<highdeviation>High Deviation</highdeviation>
+	
+	  <pencereKapatMessageBoxBaslik>Prohibited Process</pencereKapatMessageBoxBaslik>
+  <pencereKapatMessageBoxMsg>You can't close this window because of running diving profile. If you want to close this window, please set the mode manuel or wait end of diving profile.</pencereKapatMessageBoxMsg>
+  
+  <dalisSonaErdiBaslik>Dive Operation Finished</dalisSonaErdiBaslik>
+  <dalisSonaErdiMesaj>Diving operation is over. Are you want to see operation report?</dalisSonaErdiMesaj>
+
+  <ylisansliDegil>Software is not licensed!</ylisansliDegil>
+  <ylisansli>Software license is valid.</ylisansli>
+  <lisansAnahtariGecerliDegil>License key is not valid!</lisansAnahtariGecerliDegil>
+  <lisansAnahtariBosBirakilamaz>You must enter a license key!</lisansAnahtariBosBirakilamaz>
+	<lang>Dil</lang>
+ <nnem>Humidity</nnem>
+  <scaleGraphForProfile>Your selected profile maximum depth is greater than showable maximum depth of main monitoring area. Are you want to scale main monitoring area for selected profile?</scaleGraphForProfile>
+  <patientsSelected>Persons added for dive operation. You can start dive operation on dive kontrol screen.</patientsSelected>
+  <patientsNotSelected>You must select persons for dive operation.</patientsNotSelected>
+  <insideHelperNotSelected>You must select internal assistant!</insideHelperNotSelected>
+  <operatorNotSelected>You must select dive operator!</operatorNotSelected>
+  <drNotSelected>You must select dive doctor!</drNotSelected>
+  <superVisorNotSelected>You must select diving supervisor!</superVisorNotSelected>
+  <personSaved>New person saved.</personSaved>
+  <highOxygen>Oxygen Level is Too High!</highOxygen>
+
+  <yardimci>Internal Assistant</yardimci>
+  <tarih>Date</tarih>
+  <dalisListesi>Diving List</dalisListesi>
+  <tedavList>Okseadeco Dive List</tedavList>
+  <dalisSuresi>Dive Time</dalisSuresi>
+  <dipZamani>Deep Time</dipZamani>
+  <sathiTerk>Leave Surface</sathiTerk>
+  <sathaVaris>Surface Reached</sathaVaris>
+  <solunumGazi>Breathing Gas</solunumGazi>
+  <dalgicAdi>Diver Name</dalgicAdi>
+  <dalisBasladi>Dive Started</dalisBasladi>
+	<grafikBirimleriYenilendi>Graphic units changed!</grafikBirimleriYenilendi>
+
+	<modeChangeToAuto>Automation Mode</modeChangeToAuto>
+	<modeChangeToManuel>Manuel Mode</modeChangeToManuel>
+	<modeError>Mode Error</modeError>
+</Language>
