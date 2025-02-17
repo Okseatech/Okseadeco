@@ -4,7 +4,7 @@
   <description asmv2:iconFile="favicon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="okseadeco" version="1.1.6.0" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="okseadeco" version="0.4.6.0" language="neutral" processorArchitecture="msil" />
     <commandLine file="okseadeco.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -151,50 +151,38 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="okseadeco.exe" size="652800">
-      <assemblyIdentity name="okseadeco" version="1.1.6.0" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="okseadeco.exe" size="866816">
+      <assemblyIdentity name="okseadeco" version="0.4.6.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>FdVVEHCTbK23RSv/wMoxWlnRTifRfpKF+6r0e1f74I0=</dsig:DigestValue>
+        <dsig:DigestValue>XigK1OTbwFKUqUn8pPJ8Bq1F91gOkLa/Lg1ODirHRYc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="en-US\okseadeco.resources.dll" size="12288">
-      <assemblyIdentity name="okseadeco.resources" version="1.1.6.0" language="en-US" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="en-US\okseadeco.resources.dll" size="13312">
+      <assemblyIdentity name="okseadeco.resources" version="0.4.6.0" language="en-US" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>qelPvoOY9GQwY4wYc39IgxkKrNEfCe/s+64xAHMYZKU=</dsig:DigestValue>
+        <dsig:DigestValue>uVAQNhaQrbQU4GMgIVfbpd3lCLByOMOmP3rzF+7ETjg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="tr-TR\okseadeco.resources.dll" size="12288">
-      <assemblyIdentity name="okseadeco.resources" version="1.1.6.0" language="tr-TR" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="tr-TR\okseadeco.resources.dll" size="13312">
+      <assemblyIdentity name="okseadeco.resources" version="0.4.6.0" language="tr-TR" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>BbZjTovHpcQ5welIVVPuGWj8Zp8FDcK1PBYgrvx7GAs=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Tulpep.NotificationWindow.dll" size="29184">
-      <assemblyIdentity name="Tulpep.NotificationWindow" version="1.1.25.0" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>/k6PW8L7MDcoNkJreP3RRtkagc/6YK7vPZWlgvoqP4I=</dsig:DigestValue>
+        <dsig:DigestValue>C/0LXbiv7Hv91KfJkdWFERDQuq/Li0Mo4hfV3dD2cMs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
