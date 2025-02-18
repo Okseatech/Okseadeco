@@ -4,7 +4,7 @@
   <description asmv2:iconFile="favicon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="okseadeco" version="0.4.6.0" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="okseadeco" version="0.5.0.0" language="neutral" processorArchitecture="msil" />
     <commandLine file="okseadeco.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -152,37 +152,37 @@
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="okseadeco.exe" size="868864">
-      <assemblyIdentity name="okseadeco" version="0.4.6.0" language="neutral" processorArchitecture="msil" />
+      <assemblyIdentity name="okseadeco" version="0.5.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>/ph9nVPDMy+9PYkboK7Y6CwI32AegxbNkxyeFXTHQSU=</dsig:DigestValue>
+        <dsig:DigestValue>w6z9xd9QXOTFaLzyX+Q823pwVBS6dslVioYPgb4M6FI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="en-US\okseadeco.resources.dll" size="13312">
-      <assemblyIdentity name="okseadeco.resources" version="0.4.6.0" language="en-US" processorArchitecture="msil" />
+      <assemblyIdentity name="okseadeco.resources" version="0.5.0.0" language="en-US" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>upIjHl4+ErKCSgmdxN7zAg1CLZF42piyvlaKGQVO+Hk=</dsig:DigestValue>
+        <dsig:DigestValue>r2WA/6P/e9Ne0f2b2OxcTVBqpDXLQftv7NOwU2Jgkwk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="tr-TR\okseadeco.resources.dll" size="13312">
-      <assemblyIdentity name="okseadeco.resources" version="0.4.6.0" language="tr-TR" processorArchitecture="msil" />
+      <assemblyIdentity name="okseadeco.resources" version="0.5.0.0" language="tr-TR" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>qyaBHPv+Q3nwTlDKHDZrEzfuQygVWiBNFZVWsoh2EMk=</dsig:DigestValue>
+        <dsig:DigestValue>vb/OzkxrPiACKvfOgBst2WXnta/sFG8EpBRjxfZQzDY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
