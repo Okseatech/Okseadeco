@@ -151,14 +151,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="okseadeco.exe" size="866816">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="okseadeco.exe" size="868864">
       <assemblyIdentity name="okseadeco" version="0.4.6.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>XigK1OTbwFKUqUn8pPJ8Bq1F91gOkLa/Lg1ODirHRYc=</dsig:DigestValue>
+        <dsig:DigestValue>/ph9nVPDMy+9PYkboK7Y6CwI32AegxbNkxyeFXTHQSU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -170,7 +170,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>uVAQNhaQrbQU4GMgIVfbpd3lCLByOMOmP3rzF+7ETjg=</dsig:DigestValue>
+        <dsig:DigestValue>upIjHl4+ErKCSgmdxN7zAg1CLZF42piyvlaKGQVO+Hk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -182,7 +182,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>C/0LXbiv7Hv91KfJkdWFERDQuq/Li0Mo4hfV3dD2cMs=</dsig:DigestValue>
+        <dsig:DigestValue>qyaBHPv+Q3nwTlDKHDZrEzfuQygVWiBNFZVWsoh2EMk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
